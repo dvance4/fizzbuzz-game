@@ -21,7 +21,6 @@
     android:title="@string/game_time_title"
     android:summary="@string/game_time_summary"
     android:max="300"
-    android:seekBarIncrement="15"
     android:defaultValue="@integer/game_time_default"/>
 
 </androidx.preference.PreferenceScreen>
